@@ -9,11 +9,11 @@ Finger tracking to detect which fingers are open or closed.
 
 FPS (Frames Per Second) display for performance monitoring.
 
-Requirements
+#Requirements
 pip install opencv-python mediapipe
 Note: This project is compatible with MediaPipe version 0.8.10 and above. Ensure your Python version is 3.7 or later.
 
-File Structure
+#File Structure
 
 hand_detection.py: The main script for detecting hands and identifying finger positions.
 
